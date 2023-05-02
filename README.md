@@ -1,2 +1,2 @@
 Check out the website in action
-https://linkedin-clone-ef9ab.web.app/
+https://slack-clone-f24b7.web.app/
